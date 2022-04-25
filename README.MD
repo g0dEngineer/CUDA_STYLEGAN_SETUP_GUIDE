@@ -1,6 +1,9 @@
 Author: God Quest Bennett
+
 Why: Setting up Cuda can be challenging. 
+
 Title: Process used to create components in Cuda based products, like my Cryptosynth project's artificial images of people used as input to the 3d generator.
+
 God created this process for building:
 * [Cryptosyth product](https://github.com/g0dEngineer/Cryptosynth)
 * [These car's don't exist NFT](https://www.instagram.com/p/CMLMvfbhHxE/)
@@ -9,6 +12,7 @@ God created this process for building:
 The guide above was adapted from my older [Deep Brain Seq Windows Installation Guide](https://github.com/JordanMicahBennett/DeepBrainSeg/blob/master/WINDOWS%2010%20INSTALLATION%20GUIDE.md).
 
 Machine: i76700 cpu, 16 gb ram, 1 terabyte of storage, gtx 1060 6 gb
+
 Requirements: Windows Desktop or laptop with at least GTX 1060 gpu.
 
 
