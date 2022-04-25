@@ -12,6 +12,7 @@ Side note: I created this process for help building out building out:
 * etc
 
 The guide above was adapted from my older [ (2020) Deep Brain Seq Windows Installation Guide](https://github.com/JordanMicahBennett/DeepBrainSeg/blob/master/WINDOWS%2010%20INSTALLATION%20GUIDE.md).
+====
 
 Machine: i76700 cpu, 16 gb ram, 1 terabyte of storage, gtx 1060 6 gb
 
