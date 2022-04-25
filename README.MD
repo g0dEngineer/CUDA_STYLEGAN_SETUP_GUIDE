@@ -18,6 +18,7 @@ Requirements: Windows Desktop or laptop with at least GTX 1060 gpu.
 
 Goal: This particular instruction will help the setup of a Gan based car clip generator.
 
+![image](https://github.com/g0dEngineer/CUDA_STYLEGAN_SETUP_GUIDE/blob/main/mega%20cuda%20setup%20guide.png)
 
 1. Download and install python 3.6.
 
