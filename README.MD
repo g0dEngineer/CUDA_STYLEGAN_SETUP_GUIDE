@@ -1,8 +1,10 @@
 Author: God Quest Bennett
+====
 
 Why: Setting up Cuda can be challenging. My guide helps setup Cuda from the example/scope of artificial car generation via generative adversarial network example.
 
-Title: This was offered in some of my blockchain offerrings like "these cars don't exist nft below" as well as of course, used to build that NFT, as well as components in other Cuda based products, like my Cryptosynth project's artificial images of people used as input to the 3d generator.
+This was offered in some of my blockchain offerrings like "these cars don't exist nft below" as well as of course, used to build that NFT, as well as components in other Cuda based products, like my Cryptosynth project's artificial images of people used as input to the 3d generator.
+====
 
 Side note: I created this process for help building out building out:
 * [Cryptosyth product](https://github.com/g0dEngineer/Cryptosynth)
