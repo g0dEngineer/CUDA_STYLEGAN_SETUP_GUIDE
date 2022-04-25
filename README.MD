@@ -1,10 +1,10 @@
 Author: God Quest Bennett
 
-Why: Setting up Cuda can be challenging. 
+Why: Setting up Cuda can be challenging. My guide helps setup Cuda from the example/scope of artificial car generation via generative adversarial network example.
 
 Title: Process used to create components in Cuda based products, like my Cryptosynth project's artificial images of people used as input to the 3d generator.
 
-God created this process for building:
+Side note: I created this process for help building out building out:
 * [Cryptosyth product](https://github.com/g0dEngineer/Cryptosynth)
 * [These car's don't exist NFT](https://www.instagram.com/p/CMLMvfbhHxE/)
 * etc
